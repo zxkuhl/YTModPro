@@ -1,1 +1,23 @@
-
+[
+  {
+    "id": "ad-skip-pro",
+    "name": "Ad-Skip Pro",
+    "description": "Automatically clicks 'Skip' on ads and cleans up the player UI.",
+    "type": "js",
+    "download_url": "https://raw.githubusercontent.com/YourUser/YourRepo/main/scripts/adskip.js"
+  },
+  {
+    "id": "blood-red-theme",
+    "name": "Blood Red Theme",
+    "description": "A dark red and black aesthetic for late-night browsing.",
+    "type": "css",
+    "download_url": "https://raw.githubusercontent.com/YourUser/YourRepo/main/themes/red.css"
+  },
+  {
+    "id": "auto-theater",
+    "name": "Auto Theater Mode",
+    "description": "Forces the YouTube player into theater mode on every video.",
+    "type": "js",
+    "download_url": "https://raw.githubusercontent.com/YourUser/YourRepo/main/scripts/theater.js"
+  }
+]
